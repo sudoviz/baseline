@@ -24,7 +24,7 @@
   },
   "dependencies": {
     "ts-natsutil": "^1.1.0",
-    "web3": "^1.2.6",
+    "web3": "^4.0.2",
     "winston": "^3.2.1"
   },
   "devDependencies": {
@@ -32,7 +32,7 @@
     "@types/jsonwebtoken": "^8.3.4",
     "@types/node": "^12.12.37",
     "elliptic": "^6.5.3",
-    "jest": "^24.9.0",
+    "jest": "^29.6.1",
     "ts-jest": "^24.1.0",
     "ts-loader": "^6.0.4",
     "tslint": "5.20.1",
